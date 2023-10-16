@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kelby!</h1>
-<h3 align="center">A aspiring software developer from San Francisco!</h3>
+<h3 align="center">A aspiring software engineer from San Francisco!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kelbwah&label=Profile%20views&color=0e75b6&style=flat" alt="kelbwah" /> </p>
 
-- 🔭 I’m currently working on **Implementing Stockfish into my Chess Game using Python!**
+- 🔭 I’m currently working on **A full-stack Airbnb Clone with AWS and MongoDB!**
 
 - 🌱 I’m currently learning **React, React Native, and Objective-C**
 
