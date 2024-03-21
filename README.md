@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kelbwah&label=Profile%20views&color=0e75b6&style=flat" alt="kelbwah" /> </p>
 
-- 🔭 I’m currently working on **An E-Commerce Trading Platform called UTrade!**
+- 🔭 I’m currently working on **A quiz application called Kuizzical!**
 
 - 🌱 I’m currently learning **React, React Native, and Objective-C**
 
