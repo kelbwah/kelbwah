@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **A quiz application called Kuizzical!**
 
-- 🌱 I’m currently learning **React, React Native, and Objective-C**
+- 🌱 I’m currently learning **Go, Rust, and a bit of C when I have time**
 
 - 👯 I’m looking to collaborate on **Anything! Just let me know!**
 
