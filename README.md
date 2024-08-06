@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kelby!</h1>
-<h3 align="center">A aspiring software engineer from San Francisco!</h3>
+<h3 align="center">A software engineer from San Francisco!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kelbwah&label=Profile%20views&color=0e75b6&style=flat" alt="kelbwah" /> </p>
 
