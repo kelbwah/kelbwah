@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kelbwah&label=Profile%20views&color=0e75b6&style=flat" alt="kelbwah" /> </p>
 
-- 🔭 I’m currently working on **A quiz application called Kuizzical!**
+- 🔭 I’m currently working on **A Go+HTMX+Templ application called Swiftlio!**
 
-- 🌱 I’m currently learning **Go, Rust, and a bit of C when I have time**
+- 🌱 I’m currently learning **bit of C when I have time**
 
 - 👯 I’m looking to collaborate on **Anything! Just let me know!**
 
