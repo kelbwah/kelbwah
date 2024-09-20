@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **A Go+HTMX+Templ application called Swiftlio!**
 
-- 🌱 I’m currently learning **bit of C when I have time**
+- 🌱 I’m currently learning **bit of C/ARM Assembly/C++ when I have time**
 
 - 👯 I’m looking to collaborate on **Anything! Just let me know!**
 
