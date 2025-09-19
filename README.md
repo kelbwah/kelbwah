@@ -3,13 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kelbwah&label=Profile%20views&color=0e75b6&style=flat" alt="kelbwah" /> </p>
 
-- 🔭 I’m currently working on **A Go+HTMX+Templ application called Swiftlio!**
+- 🔭 I’m currently working on **creating a faith-based tech community!**
 
-- 🌱 I’m currently learning **bit of C/ARM Assembly/C++ when I have time**
-
-- 👯 I’m looking to collaborate on **Anything! Just let me know!**
-
-- 👨‍💻 All of my projects are available at [github.com/kelbwah](github.com/kelbwah)
+- 🌱 I’m currently learning **nothing**
 
 - 📫 How to reach me **kelbyhailesamandy@gmail.com**
 
