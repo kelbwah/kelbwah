@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kelbwah&label=Profile%20views&color=0e75b6&style=flat" alt="kelbwah" /> </p>
 
-- 🔭 I’m currently working on **a consolidated dns manager!**
+- 🔭 I’m currently working on **a modern gov-tech inspection system!**
 
 - 🌱 I’m currently learning **nothing**
 
